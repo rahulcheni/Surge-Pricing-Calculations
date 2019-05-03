@@ -1,0 +1,2 @@
+* * * * * /usr/bin/python /root/rahul/grab/Surge-Pricing-Calculations-master/cronjobuber_job_scheduler.py > /home/rahul/uber.log
+
